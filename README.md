@@ -13,10 +13,10 @@ The goal is to build a model that can estimate house prices as accurately as pos
 The dataset contains various features related to houses such as:
 
 - Number of bedrooms
-- Number of bathrooms
-- Living area size
-- Lot size
-- Year built
+- Total number of people residing
+- Total number of households
+- Median income for households
+- Location of the house w.r.t ocean/sea
 - Other property features
 
 ---
